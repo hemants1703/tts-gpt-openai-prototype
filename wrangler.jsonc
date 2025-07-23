@@ -1,5 +1,5 @@
 {
-  "name": "tts-gpt",
+  "name": "tts-gpt-openai",
   "compatibility_date": "2025-07-23",
   "assets": {
     "directory": "./public"
